@@ -1,5 +1,5 @@
 # Bloxcraft Unblocked Hub
-An Hub With A L App On Bloxcraft UBG.
+An Hub With All App On Bloxcraft UBG.
 
 - This Is An embedable Project, Look At embed.html To See The Embedable Version.
 
